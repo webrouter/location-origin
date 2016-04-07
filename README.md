@@ -1,2 +1,2 @@
 # location-origin
-Shim for window.location.origin for old browsers
+Shim to add support for window.location.origin to old browsers

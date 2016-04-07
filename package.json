@@ -1,0 +1,25 @@
+{
+  "name": "location-origin",
+  "version": "1.0.0",
+  "description": "Shim to add support for window.location.origin to old browsers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webrouter/location-origin.git"
+  },
+  "keywords": [
+    "shim",
+    "ie",
+    "location",
+    "origin"
+  ],
+  "author": "Gabriel Reitz Giannattasio <gabriel@gartz.com.br> (http://gartz.com.br)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webrouter/location-origin/issues"
+  },
+  "homepage": "https://github.com/webrouter/location-origin#readme"
+}
