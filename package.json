@@ -1,5 +1,5 @@
 {
-  "name": "location-origin",
+  "name": "webrouter-location-origin",
   "version": "1.0.0",
   "description": "Shim to add support for window.location.origin to old browsers",
   "main": "index.js",
